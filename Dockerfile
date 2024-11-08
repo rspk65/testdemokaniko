@@ -1,5 +1,5 @@
 #FROM - Image to start building on.
-FROM  ubuntu:noble-20241009 
+FROM  public.ecr.aws/amazonlinux/amazonlinux:2023
 
 #MAINTAINER - Identifies the maintainer of the dockerfile.
 MAINTAINER ian.miell@gmail.com
