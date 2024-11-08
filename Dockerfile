@@ -1,5 +1,5 @@
 #FROM - Image to start building on.
-FROM ubuntu:trusty-20190515
+FROM  ubuntu:noble-20241009 
 
 #MAINTAINER - Identifies the maintainer of the dockerfile.
 MAINTAINER ian.miell@gmail.com
